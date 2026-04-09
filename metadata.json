@@ -1,0 +1,5 @@
+{
+  "name": "Adaptive ETL Decision Engine",
+  "description": "A full-stack prototype of a serverless, event-driven ETL pipeline with a self-optimizing decision engine that learns from historical performance.",
+  "requestFramePermissions": []
+}
